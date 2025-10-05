@@ -1,6 +1,7 @@
 # Token-Swipe — Simplified Token Discovery & Investment Platform
 TokenSwipe revolutionizes the way users discover and invest in cryptocurrency tokens by integrating an intuitive, Tinder-like swiping interface combined with hassle-free Google sign-in. This approach removes the usual complexity of navigating decentralized exchanges (DEXs), making token investments accessible, seamless, and engaging, especially for beginners. Users can effortlessly browse tokens, categorize them by interest—such as meme coins, blue chips, or emerging projects—and make investment decisions with just a swipe.
-Enhanced Project Description
+
+ # Project Description
 TokenSwipe addresses the daunting learning curve and technical barriers often faced by new crypto investors. By introducing a familiar swipe-right/swipe-left interaction, the platform gamifies token exploration, transforming it into a fun and less intimidating experience. The integration of Google sign-in simplifies user onboarding, avoiding lengthy wallet setups or complex authentications.
 Users gain access to real-time token data aggregated from multiple sources, ensuring they receive up-to-date information for informed decisions. The platform supports seamless token swaps via DEX integration on the Base network, complete with accurate fee calculations and transparent transaction processes.
 To empower users beyond discovery, TokenSwipe includes an interactive portfolio management feature that allows monitoring token performance, buying or selling assets effortlessly, and analyzing investment trends on the fly. Moreover, users can filter tokens based on categories, tailoring their exploration to personal investment strategies or curiosities.
