@@ -19,3 +19,6 @@ To empower users beyond discovery, TokenSwipe includes an interactive portfolio 
 •	Google Sign-In Integration: Simplifies the login process, allowing users quick access without complex wallet setups, enhancing accessibility especially for crypto novices.
 Would you like me to help draft a detailed tech stack and user flow for this project?
 
+
+- resolve security concerns of private keys , like who actually holds the funds, is it the user or any other platform
+- 
